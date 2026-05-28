@@ -1,4 +1,4 @@
-```md
+```md id="4f1w2m"
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aryana%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
@@ -17,13 +17,13 @@
 
 📊 Interested in healthcare data analytics, machine learning, and meaningful tech solutions  
 
-💡 Passionate about transforming raw data into actionable insights  
+💡 Passionate about transforming raw healthcare data into actionable insights  
 
-🚀 Currently building data analysis projects focused on healthcare datasets  
+🚀 Currently building data analysis projects focused on healthcare and medical datasets  
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
@@ -31,14 +31,20 @@
 
 </div>
 
-## 📚 Libraries & Tools
+<br>
 
-- Pandas  
-- NumPy  
-- Matplotlib  
-- Seaborn  
-- Jupyter Notebook  
-- MS Excel  
+# 📚 Libraries & Tools
+
+<div align="center">
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
 
 ---
 
@@ -51,10 +57,13 @@
 
 ### ✨ Project Highlights
 
-- Performed exploratory data analysis on 768 patient records  
-- Identified key diabetes risk factors using Python  
-- Built visualizations using Seaborn and Matplotlib  
-- Found glucose level to be the strongest predictor of diabetes outcome  
+✔️ Performed exploratory data analysis on 768 patient records  
+
+✔️ Identified key diabetes risk factors using Python  
+
+✔️ Built visualizations using Seaborn and Matplotlib  
+
+✔️ Found glucose level to be the strongest predictor of diabetes outcome  
 
 ### 🧰 Tech Used
 
@@ -72,6 +81,10 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryana-02&layout=compact&theme=tokyonight"/>
 
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryana-02&theme=tokyonight"/>
+
 </div>
 
 ---
@@ -82,6 +95,19 @@
 - SQL for Data Analytics  
 - Healthcare Data Processing  
 - Machine Learning Fundamentals  
+- Data Cleaning & Feature Engineering  
+
+---
+
+# 🎯 Goals for 2026
+
+✅ Build impactful healthcare analytics projects  
+
+✅ Learn machine learning for medical datasets  
+
+✅ Contribute to open-source projects  
+
+✅ Secure a strong data analytics internship  
 
 ---
 
