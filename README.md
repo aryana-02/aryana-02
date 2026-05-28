@@ -1,45 +1,46 @@
-```md id="4f1w2m"
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Aryana%20Sharma&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aryana%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Health%20Informatics&descAlignY=60&descSize=18&descColor=a8d8ea"/>
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=CSE+(Health+Informatics)+Student;Aspiring+Data+Analyst;Building+Healthcare+Solutions;Python+%7C+SQL+%7C+Data+Visualization)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=CSE+%28Health+Informatics%29+%40+VIT+Bhopal;Turning+Healthcare+Data+into+Decisions;Python+%7C+SQL+%7C+Data+Visualization;Open+to+Data+Analytics+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 👋 About Me
+## 👩‍💻 About Me
 
-🎓 CSE (Health Informatics) student at VIT Bhopal  
+I'm a **Computer Science (Health Informatics)** student at **VIT Bhopal**, focused on bridging the gap between healthcare and data-driven decision-making.
 
-📊 Interested in healthcare data analytics, machine learning, and meaningful tech solutions  
+I enjoy working with real-world medical datasets — cleaning messy data, uncovering patterns, and turning numbers into stories that matter.
 
-💡 Passionate about transforming raw healthcare data into actionable insights  
-
-🚀 Currently building data analysis projects focused on healthcare and medical datasets  
+```python
+aryana = {
+    "education":  "B.Tech CSE (Health Informatics) — VIT Bhopal",
+    "focus":      ["Healthcare Analytics", "EDA", "Data Visualization"],
+    "tools":      ["Python", "SQL", "Pandas", "Seaborn", "Matplotlib"],
+    "goal":       "Data Analytics Internship 2026",
+    "currently":  "Building projects on medical & clinical datasets"
+}
+```
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
+
+**Languages & Tools**
 
 <img src="https://skillicons.dev/icons?i=python,mysql,html,git,github,vscode" />
 
-</div>
+<br><br>
 
-<br>
-
-# 📚 Libraries & Tools
-
-<div align="center">
+**Libraries & Frameworks**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 ![Excel](https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -48,84 +49,90 @@
 
 ---
 
-# 📌 Featured Project
+## 📌 Featured Project
 
-## 🩺 Diabetes Health Data Analysis
+<table>
+<tr>
+<td width="100%" valign="top">
 
-🔗 Repository:  
-[Diabetes Health Analysis](https://github.com/aryana-02/diabetes-health-analysis)
+### 🩺 [Diabetes Health Data Analysis](https://github.com/aryana-02/diabetes-health-analysis)
 
-### ✨ Project Highlights
+> Exploratory data analysis on the **Pima Indians Diabetes Dataset** to identify clinical risk factors and predict diabetes outcomes.
 
-✔️ Performed exploratory data analysis on 768 patient records  
+| Detail | Info |
+|--------|------|
+| 📦 Dataset | 768 patient records, 9 clinical features |
+| 🔍 Approach | EDA → Feature Analysis → Correlation Study |
+| 📊 Tools | Python, Pandas, Seaborn, Matplotlib, Jupyter |
+| 💡 Key Finding | Glucose level is the **strongest predictor** of diabetes onset |
 
-✔️ Identified key diabetes risk factors using Python  
+**Highlights:**
+- ✅ Cleaned and preprocessed real-world clinical data
+- ✅ Visualized feature distributions and class correlations
+- ✅ Identified top risk indicators using heatmaps and pairplots
+- ✅ Documented findings with clear, readable notebooks
 
-✔️ Built visualizations using Seaborn and Matplotlib  
-
-✔️ Found glucose level to be the strongest predictor of diabetes outcome  
-
-### 🧰 Tech Used
-
-`Python` `Pandas` `Seaborn` `Matplotlib` `Jupyter Notebook`
+</td>
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aryana-02&show_icons=true&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=aryana-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryana-02&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<br><br>
+<br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryana-02&layout=compact&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryana-02&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aryana-02&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
-- Data Visualization Techniques  
-- SQL for Data Analytics  
-- Healthcare Data Processing  
-- Machine Learning Fundamentals  
-- Data Cleaning & Feature Engineering  
-
----
-
-# 🎯 Goals for 2026
-
-✅ Build impactful healthcare analytics projects  
-
-✅ Learn machine learning for medical datasets  
-
-✅ Contribute to open-source projects  
-
-✅ Secure a strong data analytics internship  
+| Area | Focus |
+|------|-------|
+| 📊 Visualization | Advanced Seaborn, Plotly, storytelling with data |
+| 🗄️ SQL | Analytical queries, window functions, healthcare databases |
+| 🤖 Machine Learning | Scikit-learn, classification, model evaluation |
+| 🧹 Data Engineering | Feature engineering, handling missing/imbalanced data |
 
 ---
 
-# 🤝 Connect With Me
+## 🎯 2026 Goals
+
+- [ ] Complete 3+ end-to-end healthcare analytics projects
+- [ ] Publish a project with an interactive dashboard (Plotly/Streamlit)
+- [ ] Contribute to an open-source health data project
+- [ ] **Secure a data analytics internship** 🚀
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
+
+I'm actively looking for **internship opportunities** in data analytics and health informatics. Let's talk!
 
 <a href="https://www.linkedin.com/in/aryana-sharma-284141407">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/aryana-02">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
----
+> *"Data is the new stethoscope — and I'm learning to listen."*
+
+</div>
 
 <div align="center">
-
-✨ Turning healthcare data into meaningful insights through technology ✨
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 </div>
-```
