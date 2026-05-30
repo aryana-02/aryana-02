@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aryana%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Health%20Informatics&descAlignY=60&descSize=18&descColor=a8d8ea"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Aryana%20Sharma&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20%7C%20Health%20Informatics&descAlignY=60&descSize=18&descColor=a8d8ea"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=CSE+%28Health+Informatics%29+%40+VIT+Bhopal;Turning+Healthcare+Data+into+Decisions;Python+%7C+SQL+%7C+Data+Visualization;Open+to+Data+Analytics+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
