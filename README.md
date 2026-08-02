@@ -73,7 +73,7 @@ I build things end-to-end — from SQL schemas and Python backends to interactiv
 
 ## 🚀 Projects
 
-### 🏆 [Flipkart Gridlock AI](https://github.com/aryana-02/flipkart-gridlock-ai) — *Hackathon · HackerEarth × Flipkart*
+### 🏆 [Flipkart Gridlock AI](https://github.com/aryana-02/astram-event-congestion) — *Hackathon · HackerEarth × Flipkart*
 
 > AI-powered traffic management dashboard for Bengaluru's most congested junctions — built in partnership with Bengaluru Traffic Police (ASTraM) and submitted to Flipkart Gridlock Hackathon 2.0.
 
